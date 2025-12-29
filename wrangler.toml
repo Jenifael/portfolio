@@ -1,0 +1,11 @@
+name = "streamlit-proxy"
+main = "cloudflare-worker.js"
+compatibility_date = "2025-12-29"
+
+# Routes pour votre domaine personnalisé
+# Vous pouvez ajouter vos routes ici après avoir configuré le domaine sur Cloudflare
+# routes = [
+#   { pattern = "suberalex.com/*", zone_name = "suberalex.com" },
+#   { pattern = "www.suberalex.com/*", zone_name = "suberalex.com" }
+# ]
+
