@@ -1,4 +1,4 @@
-name = "streamlit-proxy"
+name = "portfolio"
 main = "cloudflare-worker.js"
 compatibility_date = "2025-12-29"
 
